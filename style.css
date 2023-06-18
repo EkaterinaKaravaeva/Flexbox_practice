@@ -1,0 +1,16 @@
+body {
+	background: #070838;
+	color: #ffffff;
+}
+
+.container {
+	border: 8px solid #cd9444;
+}
+
+.item {
+	background: #092c48;
+	border: 1px solid #f28252 ;
+    font-size: 50px;
+	text-align: center;
+	padding: 10px;
+}
